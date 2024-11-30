@@ -1,0 +1,2 @@
+.loading-circle{height:1rem;width:1rem;animation:spin 1s linear infinite;fill:#57534e;color:#e7e5e4}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.loading-circle path:first-child{fill:currentColor}.loading-circle path:last-child{fill:currentFill}
+/*# sourceMappingURL=17.06273bff.chunk.css.map */
